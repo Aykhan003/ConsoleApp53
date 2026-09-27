@@ -1,6 +1,6 @@
 ﻿namespace ConsoleApp53.Methods;
 
-internal class MyTask
+public class MyTask
 {
     private static int _idCounter = 0;
     public int Id { get; set; }
